@@ -13,3 +13,8 @@ Neste projeto pude colocar em prática alguns conhecimentos:
 
 Um projeto básico interativo de estudo para melhorar e consolidar o uso do React nas aplicações.
 
+
+
+
+https://user-images.githubusercontent.com/98601344/199797086-134bdd71-9697-4b47-9f2d-20ca1c5f46d8.mp4
+
