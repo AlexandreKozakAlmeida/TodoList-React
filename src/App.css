@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+  }
+  .App {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .App header {
+    margin: 4rem 0;
+  }
+  
+  /***** LISTA DE TAREFAS ********/
+  .App .principalList {
+      width: 60rem;
+      min-height: 50rem;
+      background-color: var(--blue-react);
+      padding: 2.5rem;
+      margin: 1rem;
+      border-radius: 2.6rem;
+  }
+  
+  .App .principalList h2 {
+    font-family: Roboto, sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1b1b32;
+    
+    text-align: center;
+    margin: 2rem 0;
+  }
+  
+  

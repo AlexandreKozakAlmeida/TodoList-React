@@ -1,0 +1,33 @@
+.taskForm {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.taskInput{
+    width: 35rem;
+    font-size: 1.8rem;
+    background-color: #ffffff;
+    padding: 1.4rem 3.2rem 1.4rem 1.6rem;
+    border-radius: .4rem;
+    border: 2px solid black;
+    outline: none;
+    text-transform: capitalize;
+}
+
+.taskButton {
+    font-family: Roboto, sans-serif;
+    font-size: 1.8rem;
+    padding: 1.6rem;
+  
+    border: 2px solid black;
+    border-radius: .6rem ;
+  
+    color: black;
+    background-color: var(--yellow-javascript);
+    text-transform: capitalize;
+    
+    outline: none;
+    cursor: pointer;
+}
